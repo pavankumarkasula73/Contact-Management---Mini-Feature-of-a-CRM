@@ -1,0 +1,9 @@
+/* App.css */
+button {
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #3f51b5;
+  transform: scale(1.1);
+}
